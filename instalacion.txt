@@ -1,0 +1,1 @@
+Con ssh con wget cogemos el archivo .zip lo descomprimimos con unzip y lo movemos todo a una carpeta que creamos anteriormente llamada jml84
